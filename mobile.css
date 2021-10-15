@@ -1,0 +1,37 @@
+@media screen {and (min-width: 230px) and (max-width: 800px)>   
+}
+body {
+	color: #000;
+	background: #332F29;
+	font-size:100%;
+}
+#contenedor {
+	width: 800px;
+	background: #8FA68E;
+	margin-right:auto;
+	margin-left:auto;
+	overflow: hidden;
+}
+nav {
+	background: #ccda4f;
+	float: right;
+	width: 800px;
+}
+ul {
+	list-style-type:none;
+}
+a {
+	color:#070707;
+	text-decoration: none;
+}
+section {
+	background: #dcdda3;
+	float: right;
+	margin: 0 0 0 25px;
+	width: 799px;
+}
+aside {
+	background: #CCC59E;
+	float: right;
+	width: 800px;
+}
